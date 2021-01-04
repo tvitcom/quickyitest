@@ -14,6 +14,20 @@ Finding all abnormal response codes on existing modules and site routes
 
 ## INSTALL
 
+Edit _run.sh file for your run style and move _run.sh to run.sh file with:
+
+```bash
+chmod +x run.sh
+```
+
 ## CONFIG
 
+Soon
+
 ## RUN
+
+You can do as one:
+
+```bash
+./run.sh
+```
