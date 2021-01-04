@@ -12,7 +12,7 @@ import (
   "os"
 )
 
-var pathFile = os.Args[1] //'/var/WWW/NZ/aikom2"
+var pathFile = os.Args[1] //'/var/WWW/approot"
 var DisSep = "/"
 var pathes []string
 
